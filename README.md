@@ -16,3 +16,7 @@
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <br/></div>
     </div>
+    <div style="text-align: left;"> 	
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-Hyun&layout=compact"><br><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=Kwon-Hyun&show_icons=true">
+    </div>
