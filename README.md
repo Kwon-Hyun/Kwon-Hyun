@@ -21,5 +21,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-Hyun&layout=compact"><br><br>
         <img src="https://github-readme-stats.vercel.app/api?username=Kwon-Hyun&show_icons=true">
     </div>
-    
+
+    ![](./profile-3d-contrib/profile-green-animate.svg)
    
