@@ -15,8 +15,3 @@
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <br/></div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyunowk&bg_color=60,fbcbf7,c9fde9&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunowk&layout=compact&bg_color=60,fbcbf7,c9fde9&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
