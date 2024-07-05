@@ -16,7 +16,8 @@
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <br/></div>
         <br>
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍡 Git </h2>
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍡 Github Stats </h2>
+        <b>아자아자~!</b> <br><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-Hyun&layout=compact"><br><br>
         <img src="https://github-readme-stats.vercel.app/api?username=Kwon-Hyun&show_icons=true">
     </div>
