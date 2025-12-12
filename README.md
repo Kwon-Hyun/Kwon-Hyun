@@ -18,7 +18,7 @@
         <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍡 Github Stats </h2>
     <b>아자아자~!</b> <br><br>
-    <umg src=https://github-readme-stats.vercel.app/api?username=Kwon-Hyun &hide=stars,contribs&count_private=true&show_icons=true&&theme=dracula(https://github.com/Kwon-Hyun/github-readme-stats)<br><br>
+    <img src=https://github-readme-stats.vercel.app/api?username=Kwon-Hyun &hide=stars,contribs&count_private=true&show_icons=true&&theme=dracula(https://github.com/Kwon-Hyun/github-readme-stats)><br><br>
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
